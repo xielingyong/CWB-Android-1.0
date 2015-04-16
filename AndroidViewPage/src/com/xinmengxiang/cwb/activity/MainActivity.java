@@ -1,7 +1,9 @@
-package com.view.androidviewpage;
+package com.xinmengxiang.cwb.activity;
 
 import com.viewpagerindicator.TitlePageIndicator;
 import com.viewpagerindicator.TitlePageIndicator.IndicatorStyle;
+import com.xinmengxiang.cwb.activity.R;
+import com.xinmengxiang.cwb.adapter.TestFragmentAdapter;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
